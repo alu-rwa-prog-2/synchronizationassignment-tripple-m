@@ -122,7 +122,7 @@ int main() {
         printf("Philosopher %d is thinking\n", i + 1);
     }
 
-    for (i = 0; i < N; i++) {
+    for (i = 0; i < N; i++) { //
 
         pthread_join(thread_id[i], NULL);
     }
