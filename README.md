@@ -3,5 +3,5 @@ synchronizationassignment-tripple-m created by GitHub Classroom
 
 Group Members:
 Edwin Mariwa,
-Mary Mwangi.
+Mary Mwangi,
 Musa Kanneh
